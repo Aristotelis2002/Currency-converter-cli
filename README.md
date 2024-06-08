@@ -28,7 +28,8 @@ You can pass a different date from the past as long as you follow the YYYY-MM-DD
 Using pip install the package "requests". Using the same last step as the Linux guide, you can run my program.
 
 ## Usage
-Follow the prompts to input currency conversion details. You can type 'END' at any time to terminate the application.
+Follow the prompts to input currency conversion details. You can type 'END' at any time to terminate the application.  
+All successful conversions are stored in the conversions.json file.
 
 ## Dependencies
 - [Fast Forex API](https://console.fastforex.io/auth/signin): Used to fetch exchange rates for currency conversion.
